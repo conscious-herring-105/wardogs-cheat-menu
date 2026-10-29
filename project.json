@@ -1,0 +1,23 @@
+{
+  "name": "wardogs-cheat-menu",
+  "displayName": "WARDOGS Cheat Menu",
+  "programType": "cheat-menu",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Aiming",
+    "Visuals / ESP",
+    "Combat controls",
+    "Configuration profiles"
+  ],
+  "topics": [
+    "wardogs-cheat-menu",
+    "wardogs-tools",
+    "wardogs-menu",
+    "wardogs-settings",
+    "wardogs-configs",
+    "wardogs-aiming",
+    "wardogs-visuals-esp"
+  ]
+}
